@@ -118,7 +118,7 @@ FACEBOOK: https://www.facebook.com/themefisher
           <p>Especialista atua na área de ciência da computação com ênfase em inteligência artificial e destaca a necessidade de uma legislação específica para a área</p>
           <p>Certamente a adaptação é feita por meio da monitoração. Logo, é preciso existir um conjunto de recomendações de boas práticas no uso das informações pessoais. Instituições como a Unesco, a Unicef e a OCDE, dentre outras, estão publicando documentos sobre o tema para orientar os países membros. Dentro desse contexto, um dos temas relevantes da pesquisa é a ética nos sistemas de inteligência artificial. Pessoalmente, considero a forma da legislação um pouco mais complexa. É difícil contemplar avanços rápidos da tecnologia bem como explicar o processo utilizado pelos algoritmos de inteligência artificial, por exemplo. Ou seja, o direito de um indivíduo saber como um algoritmo chegou a uma determinada decisão que o afeta versus o sigilo industrial da empresa que é proprietária do algoritmo. Logo, estamos frente a situações complexas, sejam elas educacionais ou não.</p>
           <blockquote>Disponível em:
-            https://www.terra.com.br/noticias/educacao/inteligencia-artificial-ja-consegue-inferir-estado-cognitivo-e-estilo-de-cada-aluno,38a8ea0e8fdcc2a71d64f32e288221ee5db709hm.html</blockquote>
+          <a href="https://www.terra.com.br/noticias/educacao/inteligencia-artificial-ja-consegue-inferir-estado-cognitivo-e-estilo-de-cada-aluno,38a8ea0e8fdcc2a71d64f32e288221ee5db709hm.html"> https://www.terra.com.br/noticias/educacao/inteligencia-artificial-ja-consegue-inferir-estado-cognitivo-e-estilo-de-cada-aluno,38a8ea0e8fdcc2a71d64f32e288221ee5db709hm.html</blockquote>
 
             <p>É importante discutir a ética na informática. A cada novo avanço tecnológico, a humanidade se vê cada vez mais dependennte e vulnerável quando comparada às máquinas. As violações éticas podem vir de vários sentidos, inclusive no futuro até talvez das próprias máquinas. Contudo, atualmente as violações quase sempre vêm do próprio profissional da informática. Assim, pode cometer falta ética um profissional da informática que troca peças novas por antigas, que criam softwares com intuito de encorajar comportamentos ilegais, dentre vários outros exemplos. Nesse sentido, a comissão de ética da Sociedade Brasileira de computação criou o código de ética do profissional da informática.
             Segundo o código: "São deveres dos profissionais de Informática:
@@ -277,7 +277,7 @@ FACEBOOK: https://www.facebook.com/themefisher
                 placeholder="Mensagem" required></textarea>
             </div>
             <div class="col-lg-6 col-10 mx-auto">
-              <button class="btn btn-primary w-100">send</button>
+              <button class="btn btn-primary w-100">Enviar</button>
             </div>
           </form>
         </div>
